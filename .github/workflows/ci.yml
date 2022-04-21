@@ -20,7 +20,7 @@ jobs:
       matrix:
         os:
           - macos-latest
-          - ubuntu-latest
+          - ubuntu-18.04
           - windows-latest
         architecture:
           - x64
